@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Email Template</title>
+</head>
+<body style="font-family: 'Century Gothic', sans-serif;">
+<div style="width: 21.17em; height: 20em; margin: 0 auto; background-color: #fff; padding: 1em;">
+    <div style="text-align: center; background-color: #a2d5e0; padding: 1em;">
+        <div style="background-color: #a2d5e0; padding: 1em;">
+            <img src="https://github.com/CarnevaliM/prueba/blob/main/hero_D.png?raw=true" alt="Image" style="background-color: #a2d5e0; width: 100%; height: auto;">
+        </div>
+        <h2 style="color: #fff;">Hi how are you?</h2>
+        <h6 style="color: #fff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliqua.</h6>
+        <a href="#" style="display: block; width: 50%; margin: 0 auto; text-align: center; background-color: #f5a4b0; color: #fff; text-decoration: none; padding: 0.5em; border-radius: 5px;">Read more</a>
+    </div>
+    <table style="width: 100%; margin-top: 1em;">
+        <tr>
+            <!-- Columna izquierda -->
+            <td style="width: 50%; text-align: center; padding: 0 0.5em;">
+                <img src="https://github.com/CarnevaliM/prueba/blob/main/image1.png?raw=true" alt="Image" style="width: 100%; height: auto; margin-bottom: 10px;">
+                <div style="text-align: center;">
+                    <h3>25th December</h3>
+                    <h2>Makeup Tutorial</h2>
+                </div>
+                <a href="#" style="display: block; margin-top: 1em; background-color: #f5a4b0; color: #fff; text-decoration: none; padding: 0.5em; border-radius: 5px;">Read more</a>
+            </td>
+            <!-- Columna derecha -->
+            <td style="width: 50%; text-align: center; padding: 0 0.5em;">
+                <h3>25th December</h3>
+                <h2>My Favorite Colors</h2>
+                <a href="#" style="display: block; margin-top: 0.5em; background-color: #f5a4b0; color: #fff; text-decoration: none; padding: 0.5em; border-radius: 5px;">Read more</a>
+                <img src="https://github.com/CarnevaliM/prueba/blob/main/image2.png?raw=true" alt="Image" style="width: 100%; height: auto; margin-top: 1em;">
+            </td>
+        </tr>
+    </table>
+    <div style="text-align: center; padding-top: 1em;">
+        <img src="https://github.com/CarnevaliM/prueba/blob/main/facebook%20(1).png?raw=true" alt="Facebook" style="display: inline-block; margin-right: 0.2em; width: 50px; height: 50px;">
+        <img src="https://github.com/CarnevaliM/prueba/blob/main/instagram%20(1).png?raw=true" alt="Instagram" style="display: inline-block; margin-right: 0.2em; width: 50px; height: 50px;">
+        <img src="https://github.com/CarnevaliM/prueba/blob/main/twitter.png?raw=true" alt="Twitter" style="display: inline-block; margin-right: 0.2em; width: 50px; height: 50px;">
+        <h6 style="margin-top: 1em; color: #000000;">Lorem ipsum dolor amet, consectetur adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.</h6>
+    </div>
+</div>
+</body>
+</html>
